@@ -1,5 +1,5 @@
 ## Hi! I'm Tharun Bala
-- 👋 Hi, I’m @Hackb07
+- 👋 Hi, I’m @TharunBala
 - 👀 # 💫 About Me:
 I'm working on ai,ml,dp
 
