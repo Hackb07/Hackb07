@@ -22,7 +22,7 @@
 <p align="left">
   <a href="https://behance.net/Hackb07"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
   <a href="https://facebook.com/Bunny_bala02"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/Bunny_bala02"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hackb07_tharun?igsh=MW9kdTFtNjJkdjUwaw=="><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/Tharunbala.B"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://codepen.io/Bunny_bala02"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" /></a>
 </p>
