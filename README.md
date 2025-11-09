@@ -1,27 +1,160 @@
-# 💫 About Me:
-💫 About Me:<br>- 🧠 I work on **Artificial Intelligence**, **Machine Learning**, and **Data Pipelines**<br>- ⚙️ I’m passionate about **automation**, **smart home systems**, and **digital privacy**<br>- ❤️ Anime lover | Tech tinkerer | Raspberry Pi whisperer<br>- ☁️ Currently exploring **cloud-native AI deployments** and **self-hosted privacy tools**<br><br>
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">B. Tharun Bala</span></h1>
+<h3 align="center">🚀 Machine Learning Engineer | Deep Learning • NLP • Cybersecurity | Open Source Innovator</h3>
 
-
-## 🌐 Socials:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/balat4880) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balat4880@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hackb07&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hackb07&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackb07&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hackb07&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hackb07&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:balat4880@gmail.com"><img src="https://img.shields.io/badge/Email-balat4880%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/b-tharun-bala-hackb07/"><img src="https://img.shields.io/badge/LinkedIn-B.Tharun%20Bala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Hackb07"><img src="https://img.shields.io/badge/GitHub-Hackb07-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hackb07&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Objective
+To leverage my expertise in **Artificial Intelligence, Machine Learning, and Cybersecurity** to build secure, scalable, and ethical intelligent systems.  
+My vision is to bridge the gap between **human-centered design and AI-driven innovation**, creating technology that is both functional and responsible.
+
+---
+
+## 💡 Current Focus
+- 🔬 **Developing** a Hybrid CNN–LSTM architecture for **real-time satellite anomaly detection**.  
+- 🤖 **Building** a RAG-based chatbot using LangFlow and Gradio to answer research-based questions from PDFs.  
+- 🧩 **Contributing** to open-source projects focused on model interpretability and visualization.  
+- 📈 **Exploring** edge AI, federated learning, and AI-driven security for IoT networks.
+
+---
+
+## 🧠 Technical Skills
+
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **Languages** | Python, C, C++, Java, Kotlin, JavaScript, SQL, Bash |
+| **AI/ML Frameworks** | TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, NLTK, Hugging Face |
+| **Deep Learning** | CNN, RNN, LSTM, GAN, Autoencoders |
+| **Web Development** | React.js, Flask, Firebase, HTML5, CSS3, Apps Script |
+| **Mobile** | Kotlin, Jetpack Compose, Firebase Realtime DB |
+| **Visualization / Analysis** | Matplotlib, Seaborn, Power BI, Pandas, NumPy |
+| **System / Linux** | Arch Linux (Hyprland), Shell Scripting, Automation |
+| **Security** | OWASP Practices, Ethical Hacking, Encryption Standards |
+| **Design / UI** | Figma, Adobe XD, Canva |
+| **Cloud / DevOps** | Google Cloud, GitHub Actions, Firebase Hosting |
+
+---
+
+## 🎓 Education
+**B.Tech in Artificial Intelligence and Data Science**  
+📍 *Er. Perumal Manimekalai College of Engineering, Hosur*  
+🗓 *Aug 2023 – Jul 2027*  
+
+**Relevant Coursework:** Neural Networks, Deep Learning, Data Mining, Cybersecurity, Natural Language Processing, Cloud Computing.
+
+---
+
+## 💼 Internship & Research Experience
+
+### 🏭 **Ashok Leyland Limited – In-Plant Training (Jul 2025)**
+- Studied operations across multiple departments including **Axle Shop**, **Engine Dressing**, and **Skill Development Center**.  
+- Gained exposure to **AI-based process optimization** and **data-driven quality analysis**.
+
+### 🔬 **AI-Assisted Cybersecurity Research (2025 – Present)**
+- Developing a hybrid system integrating **Transformer-based anomaly detection** with **automated threat classification**.  
+- Research supervised under **PMC Tech AI Lab**, focusing on adaptive defense mechanisms in real-time systems.
+
+---
+
+## 🧩 Notable Projects
+
+### ⚖️ [LegalEase – AI-Powered Legal Chatbot](https://github.com/Hackb07/Legel-Ease)
+An NLP-driven chatbot capable of understanding Indian legal queries using custom-trained models.  
+**Tech Stack:** Python, TensorFlow, Flask, HTML/CSS, NLTK, Transformers  
+
+---
+
+### 🎓 [PMC-Present – Smart Attendance Platform](https://github.com/Hackb07/pmc-present)
+A web-based attendance management system with Firebase backend and analytics dashboard.  
+**Features:** Role-based access, real-time data sync, visual insights  
+**Tech Stack:** React, Firebase, Apps Script  
+
+---
+
+### 💻 [Lunofetch – Modern CLI Info Tool](https://github.com/Hackb07/lunofetch)
+A lightweight Python-based Neofetch alternative for Linux customization enthusiasts.  
+**Tech Stack:** Python, Rich CLI, Cross-Platform OS Modules  
+
+---
+
+### 🐧 [Luno-OS – Arch Linux Automation Setup](https://github.com/Hackb07/Luno-os)
+Automated Arch Linux installation with Hyprland configuration for AI and dev workflows.  
+**Tech Stack:** Bash, Linux System Automation  
+
+---
+
+## 🏆 Achievements
+- 🥇 Built and deployed **lunofetch**, a cross-platform Python package on **PyPI**.  
+- 🧠 Top 10 finalist in **AI Hack ’25**, for “Autonomous Satellite Anomaly Detection System”.  
+- 📘 Contributed to open-source **cnn-visualizer** for model interpretability.  
+- 🛡️ Published **research poster on AI-Assisted Cybersecurity** at *IEEE Student Symposium (2025)*.  
+
+---
+
+## 📚 Certifications
+
+| Course | Provider | Completion |
+|--------|-----------|-------------|
+| Python for Data Science | IBM Skills Network | Jan 2024 |
+| Web Application Security (OWASP) | Udemy | Jun 2024 |
+| Security Architect – Ethical Hacking | Udemy | Sep 2024 |
+| Data Visualization with Power BI | Coursera | Nov 2025 |
+| Generative AI with Transformers | Google Cloud | In Progress |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hackb07&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hackb07&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackb07&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌐 Profiles
+- 🧰 **GitHub:** [github.com/Hackb07](https://github.com/Hackb07)  
+- 💼 **LinkedIn:** [linkedin.com/in/b-tharun-bala-hackb07](https://www.linkedin.com/in/b-tharun-bala-hackb07/)  
+- 🧠 **Kaggle:** [kaggle.com/tharunbala](https://www.kaggle.com/)  
+- 💬 **LeetCode:** [leetcode.com/hackb07](https://leetcode.com/)  
+
+---
+
+## 💬 Let’s Collaborate!
+I’m open to **research collaborations, hackathons, internships, and AI-driven product development**.  
+If you’re working on something exciting in **Deep Learning**, **Cybersecurity**, or **Generative AI**, let’s connect!
+
+📩 **Email:** balat4880@gmail.com  
+🗨️ **Discord:** hackb07  
+
+---
+
+## 🪶 Declaration
+I hereby declare that the information provided above is true to the best of my knowledge.  
+
+📍 **Place:** Hosur  
+📅 **Date:** 09/11/2025  
+
+✍️ **Signature:** *B. Tharun Bala*
+
+---
+
+<p align="center">
+  <i>“Artificial Intelligence is not about replacing humans — it’s about amplifying human potential.”</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hackb07">
+    <img src="https://komarev.com/ghpvc/?username=Hackb07&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  </a>
+</p>
