@@ -50,17 +50,7 @@ My vision is to bridge the gap between **human-centered design and AI-driven inn
 
 ---
 
-## 💼 Internship & Research Experience
 
-### 🏭 **Ashok Leyland Limited – In-Plant Training (Jul 2025)**
-- Studied operations across multiple departments including **Axle Shop**, **Engine Dressing**, and **Skill Development Center**.  
-- Gained exposure to **AI-based process optimization** and **data-driven quality analysis**.
-
-### 🔬 **AI-Assisted Cybersecurity Research (2025 – Present)**
-- Developing a hybrid system integrating **Transformer-based anomaly detection** with **automated threat classification**.  
-- Research supervised under **PMC Tech AI Lab**, focusing on adaptive defense mechanisms in real-time systems.
-
----
 
 ## 🧩 Notable Projects
 
