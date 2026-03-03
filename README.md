@@ -22,7 +22,7 @@
 
 # 🖥 SYSTEM PROFILE
 
-```bash
+bash
 > Name: B. Tharun Bala
 > Degree: B.Tech Artificial Intelligence & Data Science
 > Role: AI Systems Architect
