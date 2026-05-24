@@ -29,7 +29,7 @@ I'm an AI engineer who blends **deep learning**, **cybersecurity**, and **edge A
 
 **AI/ML:** TensorFlow · PyTorch · Keras · Hugging Face · Scikit-Learn · OpenCV
 
-**Languages:** Python · C · C++ · Java · Kotlin · JavaScript · SQL · Bash
+**Languages:** Python · C · C++ · Java · Kotlin · JavaScript · SQL · Bash . Rust . Golang
 
 **Web/Cloud:** React · Flask · Firebase · Google Cloud · GitHub Actions
 
