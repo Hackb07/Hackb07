@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm an AI engineer who blends **deep learning**, **cybersecurity**, and **edge AI** to build real-world intelligent systems. My philosophy: **remove animation, keep it simple** — I believe in stripping away unnecessary complexity and delivering clean, practical solutions.
+I'm an AI engineer who blends **deep learning**, **cybersecurity**, and **edge AI** to build real-world intelligent systems. My philosophy: **keep it simple** — I believe in stripping away unnecessary complexity and delivering clean, practical solutions.
 
 - 📍 India | 2023–2027 B.Tech @ Er. Perumal Manimekalai College of Engineering
 - 📧 [balat4880@gmail.com](mailto:balat4880@gmail.com)
